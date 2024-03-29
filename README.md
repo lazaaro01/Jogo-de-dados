@@ -1,2 +1,2 @@
 # Jogo-de-dados
-Um jogo de azar
+Você lanxa dois dados. Cada dado tem seis fazes que contêm um, dois, três, quatro, cinco e seis ponto. Depois que os dados pararem de rolar, a soma dos pontos nas faces viradas para cima é calculada, Se a soma for 7 ou 11 no primeiro lance, você ganha. Se a soma for 2, 3 ou 12 no primeiro lance você perde. Se a soma for 4, 5, 6, e, 9 ou 10 no primeiro lance, essa soma torna-se sua "pontuação". Paara ganhar, você deve continuar a rolar os dados até"fazer sua pontuação". Você perde se obtiver um 7 antes de sua pontuação
